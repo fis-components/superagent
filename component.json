@@ -6,12 +6,12 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "component-emitter": "1.1.2",
+        "component-emitter": "~1.2.0",
         "reduce-component": "1.0.1"
     },
     "paths": {
         "./lib/node/index.js": "./lib/client.js",
         "./test/support/server.js": "./test/support/blank.js"
     },
-    "version": "1.6.1"
+    "version": "1.7.2"
 }
